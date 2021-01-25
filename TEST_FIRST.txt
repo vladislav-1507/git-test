@@ -3,18 +3,8 @@ second test test "DSDSDSDSDS"
 test 3rd
 4 test
 
-<<<<<<< HEAD
 asaasasasa
 asasasasasas
 sasaasasasas
 asasasasasasasas
-------------------------------------
-=======
-sdssdsdsds
-dsdsdsdsdsdsds
-
-
-
-
-
->>>>>>> 6c8faa7333695a69eb104326da6e330ccc535009
+----------------------------------------
